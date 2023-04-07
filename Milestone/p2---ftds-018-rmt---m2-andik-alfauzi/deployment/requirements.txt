@@ -1,0 +1,11 @@
+pandas
+seaborn
+matplotlib
+Pillow
+numpy
+scikit-learn
+ensemble
+tensorflow-cpu
+keras
+streamlit
+waitress
